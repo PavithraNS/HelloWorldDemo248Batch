@@ -13,6 +13,7 @@ namespace HelloWorldDemo248Batch
             Console.WriteLine("Welcome to HelloWorld Program");
             Console.WriteLine("Making changes in remote master branch");
             Console.WriteLine("Creating conflict from local changes");
+            Console.WriteLine("Creating conflict from remote changes");
             Console.ReadLine();
         }
     }
